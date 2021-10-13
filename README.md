@@ -4,7 +4,7 @@
 Docker hub
 https://hub.docker.com/r/yaspokoyen/ldap_alpine
 
-docker pull yaspokoyen/ldap_alpine
+docker pull yaspokoyen/ldap_alpine:v1
 
 Docker run command:
 
